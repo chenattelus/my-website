@@ -3,3 +3,5 @@ My-website
 
 Adding new lines 
 Somthing added
+
+Branching exmaple
